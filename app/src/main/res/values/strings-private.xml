@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Harmony</string>
+
+    <string name="developer_name" translatable="false">John Robert Delinila</string>
+    <string name="email" translatable="false">johnrobert.delinila@lorma.edu</string>
+
+</resources>
